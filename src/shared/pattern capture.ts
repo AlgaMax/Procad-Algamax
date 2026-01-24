@@ -261,3 +261,4 @@ export function convertToPatternPiece(result: CaptureResult, name: string): Patt
     quantity: 1, rotation: 0, mirrored: false, isLocked: false, priority: 0, allowedRotations: [0, 90, 180, 270]
   };
 }
+
